@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<lista>
+	<musica id="1">
+		<titulo>Morning Light</titulo>
+		<artista>Nubiyan Twist, Ria Moran</artista>
+		<duracao>5:27</duracao>
+		<generos>
+			<genero>Jazz</genero>
+			<genero>Soul</genero>
+		</generos>
+	</musica>
+	<musica id="2">
+		<titulo>Last 100</titulo>
+		<artista>Tom Misch, Yussef Dayes</artista>
+		<duracao>4:00</duracao>
+		<generos>
+			<genero>Jazz</genero>
+			<genero>Soul</genero>
+			<genero>Electronic </genero>
+		</generos>
+	</musica>
+</lista>
